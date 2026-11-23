@@ -11,8 +11,8 @@
     "article_count": 20,
     "event_count": 2,
     "audio_rel_path": "audio/2026-11-23.mp3",
-    "audio_duration_sec": 125.03,
-    "audio_bytes": 1000940,
+    "audio_duration_sec": 132.13,
+    "audio_bytes": 1057772,
     "audio_engine": "qwen3_tts"
   }
 ]

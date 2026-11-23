@@ -5,7 +5,7 @@
     <link>https://ksi850108.github.io/defense-briefing/index.html</link>
     <language>ko-kr</language>
     <description>매일 아침 06:00 국내외 방산 뉴스 핵심 요약 음성 브리핑</description>
-    <lastBuildDate>Mon, 23 Nov 2026 22:19:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:22:39 +0900</lastBuildDate>
     <itunes:author>MyLLM Defense Briefing</itunes:author>
     <itunes:block>yes</itunes:block>
     <item>
@@ -14,8 +14,8 @@
       <link>https://ksi850108.github.io/defense-briefing/posts/2026-11-23.html</link>
       <guid isPermaLink="false">defense-briefing-2026-11-23</guid>
       <pubDate>Mon, 23 Nov 2026 06:00:00 +0900</pubDate>
-      <enclosure url="https://ksi850108.github.io/defense-briefing/audio/2026-11-23.mp3" length="1000940" type="audio/mpeg" />
-      <itunes:duration>02:05</itunes:duration>
+      <enclosure url="https://ksi850108.github.io/defense-briefing/audio/2026-11-23.mp3" length="1057772" type="audio/mpeg" />
+      <itunes:duration>02:12</itunes:duration>
     </item>
   </channel>
 </rss>
