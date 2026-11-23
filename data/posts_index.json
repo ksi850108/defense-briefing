@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-24",
+    "short_date": "11.24(화)",
+    "rel_path": "posts/2026-11-24.html",
+    "headlines": [
+      "HD현대중공업, 미국 해군 함정 MRO 사업 4번째 수주하며 미국 시장 확대",
+      "KAI, 국방품질경영상 대통령 표창 수상하며 품질혁신 성과 인정받음",
+      "경남도, K-방산에 8200억 원 규모의 상생금융 지원으로 함정 부품 국산화 추진"
+    ],
+    "article_count": 20,
+    "event_count": 2,
+    "audio_rel_path": "audio/2026-11-24.mp3",
+    "audio_duration_sec": 93.52,
+    "audio_bytes": 748652,
+    "audio_engine": "qwen3_tts"
+  },
+  {
     "date": "2026-11-23",
     "short_date": "11.23(월)",
     "rel_path": "posts/2026-11-23.html",
