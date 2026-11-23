@@ -124,4 +124,35 @@ a:hover { text-decoration: underline; }
 details summary { cursor: pointer; font-weight: 600; }
 .raw-list { margin-top: 10px; padding-left: 18px; font-size: 0.88rem; }
 .raw-list li { margin-bottom: 6px; }
+.audio-card {
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+}
+.audio-card audio { width: 100%; margin: 10px 0 8px; }
+.audio-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 0.84rem;
+}
+.speed-group { display: flex; gap: 6px; align-items: center; }
+.speed-btn {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.speed-btn.active {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
 footer { text-align: center; color: var(--muted); font-size: 0.8rem; margin-top: 28px; }

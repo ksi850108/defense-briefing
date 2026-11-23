@@ -4,11 +4,15 @@
     "short_date": "11.23(월)",
     "rel_path": "posts/2026-11-23.html",
     "headlines": [
-      "KAI, 경남에 1조5000억 원 투자해 차세대 항공 기술 개발 및 국산화 추진",
-      "국제 해군 군수·MRO 협력 포럼, 창원에서 개최되며 K-함정 수출 후 군수지원 협력 모색",
-      "한화에어로스페이스, 미국 리벨리언 인더스트리스와 AESA 레이더 수출 계약 체결"
+      "KAI, 경남에 1조5000억원 투자해 차세대 항공기·위성 사업 확대",
+      "국방품질경영상에서 KAI, 대통령 표창 수상…디지털 품질관리 혁신 인정",
+      "한화에어로스페이스, 미국에 첫 레이더 수출…글로벌 시장 진출 가속"
     ],
     "article_count": 20,
-    "event_count": 2
+    "event_count": 2,
+    "audio_rel_path": "audio/2026-11-23.mp3",
+    "audio_duration_sec": 125.03,
+    "audio_bytes": 1000940,
+    "audio_engine": "qwen3_tts"
   }
 ]
