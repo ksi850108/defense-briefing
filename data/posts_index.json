@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-25",
+    "short_date": "11.25(수)",
+    "rel_path": "posts/2026-11-25.html",
+    "headlines": [
+      "경남TP, 함정 MRO 수출 지원 사업에 38억 원 투입",
+      "한화에어로스페이스, 1773억 원 규모의 고성능 항공엔진 개발 사업 선정",
+      "KAI, KF-21EJ 전자전기 세부 설계 공개"
+    ],
+    "article_count": 20,
+    "event_count": 1,
+    "audio_rel_path": "audio/2026-11-25.mp3",
+    "audio_duration_sec": 129.74,
+    "audio_bytes": 1038572,
+    "audio_engine": "qwen3_tts"
+  },
+  {
     "date": "2026-11-24",
     "short_date": "11.24(화)",
     "rel_path": "posts/2026-11-24.html",
