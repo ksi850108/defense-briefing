@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-26",
+    "short_date": "11.26(목)",
+    "rel_path": "posts/2026-11-26.html",
+    "headlines": [
+      "한화에어로스페이스, 자주도하장비 KM3 해외 수출 권한 확보",
+      "KAI, KF-21 전투기와 무인기 연동 기술 개발 성과 발표",
+      "경남TP, 함정 MRO 중소기업 수출 지원 프로그램 본격 추진"
+    ],
+    "article_count": 20,
+    "event_count": 2,
+    "audio_rel_path": "audio/2026-11-26.mp3",
+    "audio_duration_sec": 117.63,
+    "audio_bytes": 941612,
+    "audio_engine": "qwen3_tts"
+  },
+  {
     "date": "2026-11-25",
     "short_date": "11.25(수)",
     "rel_path": "posts/2026-11-25.html",

@@ -5,9 +5,18 @@
     <link>https://ksi850108.github.io/defense-briefing/index.html</link>
     <language>ko-kr</language>
     <description>매일 아침 06:00 국내외 방산 뉴스 핵심 요약 음성 브리핑</description>
-    <lastBuildDate>Wed, 25 Nov 2026 06:03:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:03:13 +0900</lastBuildDate>
     <itunes:author>MyLLM Defense Briefing</itunes:author>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>11.26(목) 방산소식 브리핑</title>
+      <description>한화에어로스페이스, 자주도하장비 KM3 해외 수출 권한 확보 / KAI, KF-21 전투기와 무인기 연동 기술 개발 성과 발표 / 경남TP, 함정 MRO 중소기업 수출 지원 프로그램 본격 추진</description>
+      <link>https://ksi850108.github.io/defense-briefing/posts/2026-11-26.html</link>
+      <guid isPermaLink="false">defense-briefing-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0900</pubDate>
+      <enclosure url="https://ksi850108.github.io/defense-briefing/audio/2026-11-26.mp3" length="941612" type="audio/mpeg" />
+      <itunes:duration>01:58</itunes:duration>
+    </item>
     <item>
       <title>11.25(수) 방산소식 브리핑</title>
       <description>경남TP, 함정 MRO 수출 지원 사업에 38억 원 투입 / 한화에어로스페이스, 1773억 원 규모의 고성능 항공엔진 개발 사업 선정 / KAI, KF-21EJ 전자전기 세부 설계 공개</description>
