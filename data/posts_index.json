@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-27",
+    "short_date": "11.27(금)",
+    "rel_path": "posts/2026-11-27.html",
+    "headlines": [
+      "한화오션, 특수선 협력사와 '원팀' 결속하며 해양방산 경쟁력 강화",
+      "한화에어로스페이스, 단거리 이착륙 무인기 '모하비 STOL' 성능 달성",
+      "K-DEX 2026, 45개국 대표단 참여하며 역대 최대 규모로 개최"
+    ],
+    "article_count": 20,
+    "event_count": 3,
+    "audio_rel_path": "audio/2026-11-27.mp3",
+    "audio_duration_sec": 81.91,
+    "audio_bytes": 491472,
+    "audio_engine": "edge_tts"
+  },
+  {
     "date": "2026-11-26",
     "short_date": "11.26(목)",
     "rel_path": "posts/2026-11-26.html",

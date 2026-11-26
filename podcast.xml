@@ -5,9 +5,18 @@
     <link>https://ksi850108.github.io/defense-briefing/index.html</link>
     <language>ko-kr</language>
     <description>매일 아침 06:00 국내외 방산 뉴스 핵심 요약 음성 브리핑</description>
-    <lastBuildDate>Thu, 26 Nov 2026 06:03:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:33 +0900</lastBuildDate>
     <itunes:author>MyLLM Defense Briefing</itunes:author>
     <itunes:block>yes</itunes:block>
+    <item>
+      <title>11.27(금) 방산소식 브리핑</title>
+      <description>한화오션, 특수선 협력사와 &#x27;원팀&#x27; 결속하며 해양방산 경쟁력 강화 / 한화에어로스페이스, 단거리 이착륙 무인기 &#x27;모하비 STOL&#x27; 성능 달성 / K-DEX 2026, 45개국 대표단 참여하며 역대 최대 규모로 개최</description>
+      <link>https://ksi850108.github.io/defense-briefing/posts/2026-11-27.html</link>
+      <guid isPermaLink="false">defense-briefing-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0900</pubDate>
+      <enclosure url="https://ksi850108.github.io/defense-briefing/audio/2026-11-27.mp3" length="491472" type="audio/mpeg" />
+      <itunes:duration>01:22</itunes:duration>
+    </item>
     <item>
       <title>11.26(목) 방산소식 브리핑</title>
       <description>한화에어로스페이스, 자주도하장비 KM3 해외 수출 권한 확보 / KAI, KF-21 전투기와 무인기 연동 기술 개발 성과 발표 / 경남TP, 함정 MRO 중소기업 수출 지원 프로그램 본격 추진</description>
