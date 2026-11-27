@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-28",
+    "short_date": "11.28(토)",
+    "rel_path": "posts/2026-11-28.html",
+    "headlines": [
+      "한화시스템, NATO 품질인증 획득하며 유럽 수출 경쟁력 강화",
+      "KAI FA-50, 세계 경공격기 순위 2위에 선정",
+      "현대로템, 방산사업 확대를 위한 특수사업부문 인수"
+    ],
+    "article_count": 20,
+    "event_count": 3,
+    "audio_rel_path": "audio/2026-11-28.mp3",
+    "audio_duration_sec": 76.68,
+    "audio_bytes": 460080,
+    "audio_engine": "edge_tts"
+  },
+  {
     "date": "2026-11-27",
     "short_date": "11.27(금)",
     "rel_path": "posts/2026-11-27.html",
